@@ -1,0 +1,66 @@
+h1 {
+  color: #97BC62;
+  text-align: center;
+}
+p  {
+  color: #97BC62;
+  text-align: left;
+}
+img {
+  width: 250px;
+  height: 250px;
+  position: center;
+  display: block;
+}
+body {
+  background-color: #2C5F2D;
+  padding-bottom: 200px;
+}
+footer {
+  text-align: center;
+  color: #97BC62;
+  background-color: #224722;
+}
+header {
+  background-color: #224722;
+  text-align: center;
+}
+
+.gamecontainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 120px;
+}
+
+.item {
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wiisports {
+  margin-top: 110px;
+}
+
+.arks {
+  margin-top: 100px;
+}
+
+.caption {
+  width: 100%;
+  text-align: center;
+  display: block;
+}
+
+button:hover {
+  background-color: #5a7f3f !important;
+}
+
+.para {
+  text-align: center;
+  color:#97BC62;
+  margin-bottom: 70px;
+  margin-top: 50px;
+}

@@ -19,6 +19,8 @@ footer {
   text-align: center;
   color: #97BC62;
   background-color: #224722;
+  left: 0;
+  bottom: 0;
 }
 header {
   background-color: #224722;
